@@ -19,12 +19,12 @@
 
 ## 🛠 Tech Stack
 
-- Python
-- HTML
-- Git
-- GitHub
-- Learning SQL
-
+🐍 Python
+🌐 HTML5
+🎨 CSS3
+🗃️ SQL
+🔧 Git
+🐙 GitHub
 ---
 
 ## 🎯 2026 Goals
