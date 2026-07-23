@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Saurabh Nalawade
 
-<!--
-**saurabhnalawade538/saurabhnalawade538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Third-Year Artificial Intelligence & Machine Learning Student
 
-Here are some ideas to get you started:
+💡 Passionate about Artificial Intelligence, Machine Learning and Computer Vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Third-Year AIML Student
+- 🐍 Learning Python
+- 🌐 HTML
+- 🗄️ Currently Learning SQL
+- 🤖 Exploring OpenCV & Machine Learning
+- 🌱 Learning something new every day
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- HTML
+- Git
+- GitHub
+- Learning SQL
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Build 10+ AI Projects
+- ✅ Learn Machine Learning
+- ✅ Learn Computer Vision
+- ✅ Contribute to Open Source
+- ✅ Get an AI/ML Internship
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/saurabh-nalawade-73631532a
+
+⭐ Thanks for visiting my profile!
